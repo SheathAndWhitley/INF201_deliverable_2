@@ -1,0 +1,16 @@
+* 6ea9a76 - Kristian Sheath, 59 seconds ago : add pdf version
+* 2740de3 - Philip Schou Whitley, 41 minutes ago : doing some polishing
+* 3646657 - Kristian Sheath, 55 minutes ago : add requirements.txt
+* 39507f3 - Kristian Sheath, 27 hours ago : Add comments
+* 55fcbd4 - Kristian Sheath, 27 hours ago : task_5
+* cd71a9d - Philip Schou Whitley, 2 days ago : finished task 4
+* 5971c4d - Kristian Sheath, 2 days ago : complete task 3
+* ced4c0b - Philip Schou Whitley, 2 days ago : Completed task 2
+*   ad7c575 - Kristian Sheath, 3 days ago : Merge branch 'dev' of https://github.com/SheathAndWhitley/INF201_deliverable_2 into dev
+|\  
+| * ec6cdf1 - Philip Schou Whitley, 9 days ago : added file reader function
+* | 28ba0fe - Kristian Sheath, 3 days ago : Task 1 part 1 and part 2
+|/  
+* 2877b33 - Philip Schou Whitley, 9 days ago : Added data and notebook. removed setup scripts
+* ce8f271 - Philip Schou Whitley, 9 days ago : Initial commit
+* 7661385 - Philip Schou Whitley, 9 days ago : Initial commit
