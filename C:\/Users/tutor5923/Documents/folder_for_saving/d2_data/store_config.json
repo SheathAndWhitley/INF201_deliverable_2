@@ -1,0 +1,36 @@
+{
+  "company": "Campus Coffee",
+  "regions": [
+    {
+      "region_name": "Main Campus",
+      "stores": [
+        {
+          "name": "Library Cafe",
+          "registers": [
+            {
+              "id": "POS_01",
+              "active": true
+            },
+            {
+              "id": "POS_02",
+              "active": true
+            }
+          ]
+        },
+        {
+          "name": "Science Building",
+          "registers": [
+            {
+              "id": "POS_03",
+              "active": true
+            },
+            {
+              "id": "POS_04",
+              "active": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
